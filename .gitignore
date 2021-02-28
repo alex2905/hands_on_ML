@@ -1,0 +1,8 @@
+datasets/
+.ipynb_checkpoints/
+artefacts/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+inst/doc

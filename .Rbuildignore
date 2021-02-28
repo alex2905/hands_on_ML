@@ -1,0 +1,6 @@
+^environment\.yml$
+^requirements\.txt$
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
