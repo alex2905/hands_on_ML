@@ -32,4 +32,5 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ```
 
 For creating the pthon environment open the git bash prompt in this repo and execute:  
+```make environment``` or  
 ```conda env create -n hands-on-ml --force --file environment.yml```
