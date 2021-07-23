@@ -6,3 +6,5 @@ artefacts/
 .RData
 .Ruserdata
 inst/doc
+my_logs/
+*.h5
